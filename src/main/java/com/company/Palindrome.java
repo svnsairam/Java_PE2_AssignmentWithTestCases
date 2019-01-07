@@ -1,8 +1,6 @@
 package com.company;
 
-import java.util.Scanner;
-
-public class Q1_Palindrome {
+public class Palindrome {
 
     public static void main(String[] args) {
 
@@ -15,8 +13,8 @@ public class Q1_Palindrome {
         return null;
     }
 
-    public  boolean isPalindrome(String inputString, String reversedString){
-            return true;
+    public  boolean isPalindrome(String inputString){
+        return true;
     }
 
 

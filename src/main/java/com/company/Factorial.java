@@ -1,6 +1,6 @@
 package com.company;
 
-public class Q7_Factorial {
+public class Factorial {
 
     public long factorial(int input){
 

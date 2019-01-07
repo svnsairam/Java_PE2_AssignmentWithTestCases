@@ -2,14 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4857c765-6588-42ad-b799-f39f2ee178c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/EvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/PowerOf4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/StudentsAndGrades.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaPE1" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Q1_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Q1_Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Q2_PowerOf4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Q2_PowerOf4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Q5_EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Q5_EvenNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Q6_StudentsAndGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Q6_StudentsAndGrades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/Q1_PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/Q1_PalindromeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/Q2_PowerOf4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/Q2_PowerOf4Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/Q6_StudentsAndGradesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/Q6_StudentsAndGradesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE1WithTestCases" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE1WithTestCases" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPE2TestCases/com/company/Q1_Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPE2TestCases/com/company/Q1_Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPE2TestCases/com/company/Q2_PowerOf4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPE2TestCases/com/company/Q2_PowerOf4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPE2TestCases/com/company/Q5_EvenNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPE2TestCases/com/company/Q5_EvenNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPE2TestCases/com/company/Q6_StudentsAndGrades.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPE2TestCases/com/company/Q6_StudentsAndGrades.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/JavaPE2TestCases/com/company/Q1_PalindromeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/JavaPE2TestCases/com/company/Q1_PalindromeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/JavaPE2TestCases/com/company/Q2_PowerOf4Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/JavaPE2TestCases/com/company/Q2_PowerOf4Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/JavaPE2TestCases/com/company/Q6_StudentsAndGradesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/JavaPE2TestCases/com/company/Q6_StudentsAndGradesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Q1_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Q2_PowerOf4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Q3_MemberClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/MemberClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Q5_EvenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Q6_StudentsAndGrades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Q7_Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/MemberVariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/MemberVariableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/Q1_PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/PalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/Q2_PowerOf4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/PowerOf4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/Q5_EvenNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/EvenNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/Q6_StudentsAndGradesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/StudentsAndGradesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/Q7_FactorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/FactorialTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../junit_Folder_by_Ximantha" beforeDir="false" afterPath="$PROJECT_DIR$/../junit_Folder_by_Ximantha" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,86 +40,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Q1_Palindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/Q1_PalindromeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Q2_PowerOf4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="19" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Q5_EvenNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/Q6_StudentsAndGradesTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Q6_StudentsAndGrades.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Q3_MemberClass.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/PowerOf4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#640#641#0" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/PowerOf4Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -109,40 +60,83 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/company/MemberVariableTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="465">
+              <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/EvenNumberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/MemberClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/EvenNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/StudentsAndGrades.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Factorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/StudentsAndGradesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="55" column="69" selection-start-line="55" selection-start-column="69" selection-end-line="55" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Q7_Factorial.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/FactorialTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/Q7_FactorialTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -158,7 +152,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -168,23 +162,22 @@
         <option value="$PROJECT_DIR$/src/main/java/com/company/afds.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/company/PalindromeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/asd.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/company/Q5_EvenNumberTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/adsfd.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/Q5_StudentsAndGrades.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/company/Q1_PalindromeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/company/Q2_PowerOf4Test.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/company/Q6_StudentsAndGradesTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/adf.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/Q3_MemberVariable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/assss.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/company/Q7_FactorialTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/company/MemberVariableTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/Q3_MemberClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/Q1_Palindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/Q2_PowerOf4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/Q3_MemberClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/MemberClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/Q5_EvenNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/Q6_StudentsAndGrades.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/Q7_Factorial.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/MemberVariableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/Q1_PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/Q2_PowerOf4Test.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/Q5_EvenNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/Q6_StudentsAndGradesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/StudentsAndGradesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/Q7_FactorialTest.java" />
       </list>
     </option>
   </component>
@@ -194,7 +187,7 @@
     <option name="width" value="913" />
     <option name="height" value="540" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -263,7 +256,7 @@
     <property name="Repository.Attach.Annotations" value="true" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546490545119" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546837412936" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -273,6 +266,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.company" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -294,22 +290,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q5_EvenNumber">
-    <configuration name="Q2_PowerOf4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Q2_PowerOf4" />
+  <component name="RunManager" selected="JUnit.Q6_StudentsAndGradesTest.testAverageGrade">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="JavaPE2TestCases" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q5_EvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Q5_EvenNumber" />
+    <configuration name="Q2_PowerOf4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaPE2TestCases" />
       <extension name="coverage">
         <pattern>
@@ -317,6 +309,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Q2_PowerOf4Test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -371,11 +366,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q5_EvenNumber" />
-        <item itemvalue="Application.Q2_PowerOf4" />
         <item itemvalue="JUnit.Q6_StudentsAndGradesTest.testAverageGrade" />
         <item itemvalue="JUnit.Q2_PowerOf4Test.testPowerOfFourSuccess" />
         <item itemvalue="JUnit.Q2_PowerOf4Test.testPowerOfFour" />
+        <item itemvalue="JUnit.Q2_PowerOf4Test" />
       </list>
     </recent_temporary>
   </component>
@@ -420,6 +414,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25379092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -451,132 +446,102 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/test/com/company/PalindromeTest.java" />
-    <entry file="file://$PROJECT_DIR$/JavaPE2TestCases.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/Q5_EvenNumberTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/PowerOf4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/MemberClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/EvenNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/Q2_PowerOf4Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/StudentsAndGrades.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/Q6_StudentsAndGradesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/Q1_PalindromeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/company/MemberVariableTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="465">
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/PalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/Q7_FactorialTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/PowerOf4Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="60">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/EvenNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Q1_Palindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/StudentsAndGradesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="23" selection-end-line="23" />
+        <state relative-caret-position="334">
+          <caret line="55" column="69" selection-start-line="55" selection-start-column="69" selection-end-line="55" selection-end-column="69" />
           <folding>
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Q2_PowerOf4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/FactorialTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="19" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Q3_MemberClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Q5_EvenNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Q6_StudentsAndGrades.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Q7_Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="60">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>

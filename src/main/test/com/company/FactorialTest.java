@@ -6,25 +6,25 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class Q7_FactorialTest {
+public class FactorialTest {
 
-    Q7_Factorial testObj;
+    Factorial factorial;
 
     @Before
     public void setUp (){
-        testObj = new Q7_Factorial();
+        factorial = new Factorial();
     }
 
     @After
     public void tearDown(){
-        testObj = null;
+        factorial = null;
     }
 
 
     @Test
     public void testCornerCaseFor21(){
         long    expectedValue = -1;
-        long    actualValue = testObj.factorial(21);
+        long    actualValue = factorial.factorial(21);
 
         assertEquals(expectedValue, actualValue);
     }
@@ -33,7 +33,7 @@ public class Q7_FactorialTest {
     public void testFactorial(){
 
         long    expectedValue = 120;
-        long    actualValue = testObj.factorial(5);
+        long    actualValue = factorial.factorial(5);
 
         assertEquals(expectedValue, actualValue);
     }

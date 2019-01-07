@@ -1,11 +1,11 @@
 package com.company;
 
-public class Q3_MemberClass {
+public class MemberClass {
     String  MemberName;
     int     MemberAge, MemberSalary;
 
 
-    Q3_MemberClass (String name, int age , int salary){
+    MemberClass (String name, int age , int salary){
         this.MemberName = name;
         this.MemberAge = age;
         this.MemberSalary = salary;
@@ -17,11 +17,11 @@ public class Q3_MemberClass {
 
 class  MemberVariable {
 
-    Q3_MemberClass memberObject ;
+    MemberClass memberObject ;
 
     public MemberVariable(String name , int age, int salary) {
 
-          memberObject  = new Q3_MemberClass(name,age,salary);
+          memberObject  = new MemberClass(name,age,salary);
     }
 
 
