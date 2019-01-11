@@ -2,9 +2,9 @@ package com.company;
 
 public class Factorial {
 
-    public long factorial(int input){
+    public long factorial(int input) {
 
-    return 0;
+        return 0;
 
     }
 }

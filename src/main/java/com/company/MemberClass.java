@@ -1,39 +1,38 @@
 package com.company;
 
 public class MemberClass {
-    String  MemberName;
-    int     MemberAge, MemberSalary;
+    String MemberName;
+    int MemberAge, MemberSalary;
 
 
-    MemberClass (String name, int age , int salary){
+    MemberClass(String name, int age, int salary) {
         this.MemberName = name;
         this.MemberAge = age;
         this.MemberSalary = salary;
     }
 
 
-
 }
 
-class  MemberVariable {
+class MemberVariable {
 
-    MemberClass memberObject ;
+    MemberClass memberObject;
 
-    public MemberVariable(String name , int age, int salary) {
+    public MemberVariable(String name, int age, int salary) {
 
-          memberObject  = new MemberClass(name,age,salary);
+        memberObject = new MemberClass(name, age, salary);
     }
 
 
-    public String getName(){
+    public String getName() {
         return memberObject.MemberName;
     }
 
-    public int getAge(){
+    public int getAge() {
         return memberObject.MemberAge;
     }
 
-    public int getSalary(){
+    public int getSalary() {
         return memberObject.MemberSalary;
     }
 

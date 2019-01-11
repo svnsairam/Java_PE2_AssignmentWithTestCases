@@ -13,33 +13,33 @@ public class MemberVariableTest {
     final int[] grades = {86, 65, 98, 77};
 
     @Before
-    public void setUp (){
-        memberVariable = new MemberVariable("sachin", 45, 225000 );
+    public void setUp() {
+        memberVariable = new MemberVariable("sachin", 45, 225000);
     }
 
     @After
-    public void tearDown(){
+    public void tearDown() {
         memberVariable = null;
     }
 
     @Test
-    public  void testNameAgeSalary(){
-        String expectedName =  "sachin";
+    public void testNameAgeSalary() {
+        String expectedName = "sachin";
         String actualName = memberVariable.getName();
 
         assertEquals(expectedName, actualName);
 
 
-        int     expectedAge  =  45;
-        int     actualAge    =  memberVariable.getAge();
+        int expectedAge = 45;
+        int actualAge = memberVariable.getAge();
 
-        assertEquals(expectedAge,actualAge);
+        assertEquals(expectedAge, actualAge);
 
 
-        int     expectedSalary  =  225000;
-        int     actualSalary   =  memberVariable.getSalary();
+        int expectedSalary = 225000;
+        int actualSalary = memberVariable.getSalary();
 
-        assertEquals(expectedSalary,actualSalary);
+        assertEquals(expectedSalary, actualSalary);
 
     }
 

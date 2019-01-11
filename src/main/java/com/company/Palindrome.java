@@ -5,7 +5,6 @@ public class Palindrome {
     public static void main(String[] args) {
 
 
-
     }
 
     public String reverse(String inputString) {
@@ -13,7 +12,7 @@ public class Palindrome {
         return null;
     }
 
-    public  boolean isPalindrome(String inputString){
+    public boolean isPalindrome(String inputString) {
         return true;
     }
 
